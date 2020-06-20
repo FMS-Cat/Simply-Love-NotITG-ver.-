@@ -93,7 +93,7 @@
 	feetBaseZoom = 1
 
 -- Judgment Font List
-	judgmentFontList = { 'Default', 'Love', 'Bold' , 'Coaster', 'Tactics', 'Chromatic', 'Deco', 'GrooveNights', 'FP', 'ITG2' }
+	judgmentFontList = { 'Default', 'Love', 'Bold' , 'Coaster', 'Shooters', 'Tactics', 'Chromatic', 'Deco', 'GrooveNights', 'FP', 'ITG2' }
 
 -- Used with ThemeFiles function
 	themeDir = '_ThemeFiles'
